@@ -1,0 +1,17 @@
+h1 {
+text-align: right;
+padding-right: 30%;
+}
+.sa {
+text-align: center;
+background-color: antiquewhite;
+border-radius:  20px;
+}
+.pa {
+text-align: center;
+background-color: bisque;
+border-radius:  20px;
+}
+samp {
+    font-size: 20px;
+}
